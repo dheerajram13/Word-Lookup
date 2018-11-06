@@ -23,14 +23,14 @@ chrome://extensions/
 
 ## Built With
 
-* [Javascript]
+* Javascript
 
 
 ## Screenshots
   * Extension UI
-  ![](WordLookup/images/img1.png) 
+  ![](images/img1.PNG) 
   * Usage
-  ![](images/img2.png)
+  ![](images/img2.PNG)
   
 ## Authors
 
