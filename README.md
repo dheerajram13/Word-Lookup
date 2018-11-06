@@ -24,6 +24,8 @@ chrome://extensions/
 ## Built With
 
 * Javascript
+* HTML
+* CSS
 
 
 ## Screenshots
@@ -36,9 +38,13 @@ chrome://extensions/
 
 * **Srirama Dheeraj** - [DheerajRam13](https://github.com/dheerajram13/)
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details
+
+
 ## Credits
 
-* **dictionary.com** - [dictionary.com](https://www.dictionary.com/)
+* **Dictionary.com** - [Dictionary.com](https://www.dictionary.com/)
 
 
 
