@@ -28,7 +28,7 @@ chrome://extensions/
 
 ## Screenshots
   * Extension UI
-  ![](images/img1.png) 
+  ![](WordLookup/images/img1.png) 
   * Usage
   ![](images/img2.png)
   
